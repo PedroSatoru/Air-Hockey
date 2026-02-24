@@ -2,6 +2,11 @@
 
 Um jogo de Air Hockey 2D desenvolvido em Unity, onde você compete contra uma IA inteligente em um clássico jogo de mesa digital.
 
+## colaboradores 
+
+### Pedro Henrique Satoru RA: 22.123.019-6
+### Pedro Henrique Correia de Oliveira RA: 22.222.009-7
+
 ## 📋 Características
 
 - **Jogabilidade Clássica**: Experimente a emoção do air hockey em ambiente digital
